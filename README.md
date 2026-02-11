@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jyotish-07
-- 👀 I’m interested in cybersecurity, penetration testing, and digital forensics
+-  I’m interested in cybersecurity, penetration testing, and digital forensics
 -  I’m currently learning cybersecurity concepts, including network security, vulnerability assessment, and incident response
 -  I’m looking to collaborate on open-source cybersecurity projects, CTF challenges
 -  How to reach me jyotish.maddipudi@gmail.com
